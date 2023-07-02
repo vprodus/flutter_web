@@ -1,16 +1,15 @@
-# flutter_academy
+# Layout  
 
-A new Flutter project.
+Scaffold  
+Layout  
+Row  
+Column  
+Expanded  - That will expand to take the available space on the row  
+  We are also wrapping the right-side content with an Expanded widget, so both contents will take exactly 50% of the available space.   
 
-## Getting Started
+## Add images to the web page  
+create assets/images  folder and add the images  
+add settings in pubspec.yaml  
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
